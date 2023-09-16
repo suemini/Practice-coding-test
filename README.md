@@ -1,3 +1,3 @@
-# JoonHub
-This is a auto push repository for Baekjoon Online Judge created with [BaekjoonHub](https://github.com/BaekjoonHub/BaekjoonHub).
-크롬 확장프로그램 백준허브 연결
+# Algorithm
+크롬 확장프로그램 백준허브 연결하여
+내가 푼 코딩테스트 연습 문제 업로드
